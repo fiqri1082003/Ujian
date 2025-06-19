@@ -2,3 +2,6 @@ dependencies:
   flutter:
     sdk: flutter
   device_info_plus: ^10.0.1
+  dependencies:
+  http: ^0.13.3
+

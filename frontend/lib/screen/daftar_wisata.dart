@@ -32,6 +32,8 @@ class _DaftarWisataScreenState extends State<DaftarWisataScreen> {
     Wisata(nama: 'Taman Mini Indonesia Indah', kota: 'Jakarta', jenis: 'Monumen'),
   ];
 
+  
+
   List<Wisata> _filteredWisata = [];
 
   final TextEditingController _searchController = TextEditingController();
